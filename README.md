@@ -14,7 +14,7 @@ A complete **QBCore BurgerShot Job** script for FiveM servers featuring full bus
 - 💸 **Money Management** – Handle both personal and society funds.  
 - 🧾 **Menu Management** – Add, update, or remove burger items anytime.  
 - 💰 **Dynamic Pricing** – Owners can set custom prices per item.  
-- 🍳 **Interactive Cooking** – Enjoy a fun burger-making mini-game.  
+- 🍳 **Interactive Cooking** – Enjoy a fun burger-making.  
 - 🏦 **Society Funds** – Seamless integration with QBCore society accounts.  
 - 🎨 **Modern UI** – Clean and user-friendly interfaces for both staff and customers.  
 - ⚙️ **Highly Configurable** – Customize settings, items, and interactions.  
