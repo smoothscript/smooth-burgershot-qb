@@ -41,18 +41,4 @@ Need help or custom scripts?
 Join the SmoothScript community:  
 [🔗 https://discord.gg/sZcPPR2e2X](https://discord.gg/sZcPPR2e2X)
 
----
-
-## 📂 Compatibility
-
-Framework: `QBCore`  
-Supports: `QBCore latest`, `ox_inventory`, `qb-management`
-
----
-
-## 📌 Installation
-
-1. Download the script from your [Tebex purchase](https://smoothscript.tebex.io/package/6822657).
-2. Extract it to your `resources/[local]` folder.
-3. Add the following to your `server.cfg`:
 
